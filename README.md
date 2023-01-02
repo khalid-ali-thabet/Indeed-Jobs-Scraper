@@ -15,6 +15,7 @@ This project's purposes is to scrape the jobs provided on Indeed.com website and
 * the location/country you want
 * the email address to send the data to 
 * the passward of that email address
+## output: csv file containig the following fields 
 # csv file content:
 ### 'N/A': is the default value for every field if this particular information didn't provided
 * title : the full title of the posted job
